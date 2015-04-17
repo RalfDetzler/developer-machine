@@ -1,2 +1,2 @@
-# Instal Java 8
+# Install Java 8
 ```` ./install-java8.sh ````
